@@ -1,8 +1,8 @@
 {
-  "name": "crane-config-tool",
+  "name": "manitex-config-tool",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://manbearjl.github.io/crane-config-tool",
+  "homepage": "https://manbearjl.github.io/manitex-config-tool",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -13,5 +13,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
