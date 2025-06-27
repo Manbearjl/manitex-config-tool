@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manitex-config-tool/static/css/main.957251f5.css",
+    "main.js": "/manitex-config-tool/static/js/main.932e9a17.js",
+    "index.html": "/manitex-config-tool/index.html",
+    "main.957251f5.css.map": "/manitex-config-tool/static/css/main.957251f5.css.map",
+    "main.932e9a17.js.map": "/manitex-config-tool/static/js/main.932e9a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957251f5.css",
+    "static/js/main.932e9a17.js"
+  ]
+}
